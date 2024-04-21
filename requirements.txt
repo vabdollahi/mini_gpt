@@ -1,4 +1,8 @@
-numpy==1.21.6
-pandas==1.5.3
-black==22.3.0
-isort==5.10.1
+numpy
+pandas
+matplotlib
+torch
+
+black
+pylint
+isort
